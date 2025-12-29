@@ -1,14 +1,3 @@
-# Technical_Analysis_using_Python_Finance
-
-## Performance Metrics
-
-  Number of trades executed: 21
-  Win rate: 85.71%
-  Sharpe Ratio: 11.18
-  Maximum Drawdown: -16.26%
-  Strategy Return: 927.96%
-  Profit-making trades: 18
-  Loss-making trades: 3
   
 #  Technical Analysis Using Python (Finance)
 
