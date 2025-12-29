@@ -51,7 +51,3 @@ Trades are executed **only when both indicators align**, reducing noise and fals
 
 ---
 
-
-## 👤 Author
-**Omprakash Balara**  
-B.Tech Mechanical Engineering, IIT Roorkee
